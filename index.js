@@ -21,4 +21,4 @@ function allo(){
 }
 allo();
 console.log(a,m,z);
-console.log(age);
+console.log(age) ;
