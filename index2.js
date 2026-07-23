@@ -3,4 +3,4 @@ function fun(){
     console.log(a);
     var a=20;
 }
-fun();
+fun(); 
