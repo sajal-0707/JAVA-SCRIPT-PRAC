@@ -1,2 +1,2 @@
-//Implicit Type casting
+//Implicit Type casting 
 console.log("10"+1);
