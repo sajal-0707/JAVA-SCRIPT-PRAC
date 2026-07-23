@@ -1,24 +1,2 @@
-var a=10;
-var z=20;
-let m=60;
-function allo(){
-    var age=18;
-    let m=30;
-    if(age>=18){
-        let age=20;
-        var a=50;
-        console.log("allowed");
-    }
-    function innerfun(){
-        var age=50;
-        console.log(z);
-        console.log(age);
-        console.log(m);
-        console.log(a);
-        }
-        console.log(a);
-        innerfun();
-}
-allo();
-console.log(a,m,z);
-console.log(age) ;
+console.log(a);
+//hoiesting is a java script default behaviours where all the declaration move to the top of their scope
