@@ -11,4 +11,4 @@ function fun()
     }
     foo();
 }
-fun();
+fun(); 
