@@ -6,4 +6,4 @@ function fun()
 let a=fun();//hello bolo
 console.log(a);//5
 
-//Explicit Number type casting
+//Explicit Number type casting 
