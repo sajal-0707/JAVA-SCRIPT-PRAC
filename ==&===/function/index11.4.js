@@ -4,7 +4,7 @@ function outer()
     function inner()
     {
         a++;
-        console.log(a);
+        console.log( a );
     }
     inner();
 }
