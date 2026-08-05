@@ -4,7 +4,7 @@ function foo(c)
 }
 function fun()
 {
-    console.log("Hello world");
+    console.log(" Hello world ");
 }
 let result=foo(fun);
 console.log(result);
