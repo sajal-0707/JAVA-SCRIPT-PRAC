@@ -2,7 +2,7 @@
 //1. Using index
 let arr=[1,2,3,4,5,6,7,8,9];
 // arr[5]=10;
-// console.log(arr);//[ 1, 2, 3, <2 empty items>, 10 ]
+//console.log(arr);//[ 1, 2, 3, <2 empty items>, 10 ]
 // console.log(arr[3])//undefined
 //access values of array in js
 // let val=arr[2];
