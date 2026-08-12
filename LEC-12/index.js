@@ -5,7 +5,7 @@ let arr=[1,2,3,4,5,6,7,8,9];
 //console.log(arr);//[ 1, 2, 3, <2 empty items>, 10 ]
 // console.log(arr[3])//undefined
 //access values of array in js
-// let val=arr[2];
+//let val=arr[2];
 // console.log(val);//3
 //2. Push and pop
 //push als elements at last
